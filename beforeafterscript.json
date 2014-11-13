@@ -1,0 +1,25 @@
+{
+  "name": "beforeafterscript",
+  "title": "Before and After image script",
+  "description": "This script lets you easily view an \"after\" version of any image as an overlay of the original one. It makes for a dramatic way of comparing two images and any subtle differences. A draggable handle bar lets the user decide how much of each image he/she wishes to view. The \"before\" and \"after\" slides can each contain not just a main image, but other HTML as well, such as a caption. Furthermore, the script can load another set of images on demand.",
+  "keywords": ["gallery", "image", "compare", "overlay", "slideshow"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex4/beforeandafter.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex4/beforeandafter.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex4/beforeandafter.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex4/beforeandafter.htm"
+}
