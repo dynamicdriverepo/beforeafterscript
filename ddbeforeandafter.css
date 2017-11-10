@@ -8,6 +8,10 @@ div.beforeandafter{ /* main container */
 	width: 650px; /* default width of main container */
 }
 
+div.beforeandafter img{
+	max-width: none !important;
+}
+
 div.before, div.after{ /* before and after DIVs within main container */
 	height: 100%;
 	left: 0;
